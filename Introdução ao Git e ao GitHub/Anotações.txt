@@ -1,5 +1,4 @@
 Link para download do Git: https://git-scm.com/download/win
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
-Tive que procurar na net como realizar os ajustes para funcionar na
-mnha máquina virtual.
+Tive que procurar na net como realizar os ajustes para funcionar na minha máquina virtual.
